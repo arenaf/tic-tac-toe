@@ -30,7 +30,7 @@ La partida finaliza cuando gana "player 1", "player 2" o con empate.
 
 ![ganador](https://github.com/arenaf/tic-tac-toe/assets/169451601/1d7cde75-c959-473d-a608-03eaf140a942)
 
-Pregunta al usuario si quiere jugar otra partida y actualiza las puntuaciones.
+Pregunta al usuario si quiere jugar otra partida y actualiza las puntuaciones de cada jugador y la puntución más alta (si procede):
 
   - *P1*: player 1
   - *P2*: player 2
